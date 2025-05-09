@@ -1,6 +1,6 @@
 # Porte logique ET
 
-Ce repository enregistre l'ensemble du projets LTSpice XVII créé pour le TD proposés par Electro Robot. 
+Ce repository enregistre l'ensemble du projets LTSpice XVII créé pour le TD proposé par Electro Robot. 
 Plus de détails, vous pouvez vous faire référence à : [Porte logique ET](https://electro-robot.com/les-activites/travaux-diriges-la-porte-logique-et)
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
